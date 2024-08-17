@@ -11,8 +11,8 @@ I'm open to freelance opportunities! If you're looking for a dedicated and creat
 ## Contact Me
 📫 Let's connect and collaborate! You can reach me at:
 
-Email: alfitodhiyu5@gmail.com
-LinkedIn: Alfito Dhiyu Priawan
+- Email: alfitodhiyu5@gmail.com
+- LinkedIn: Alfito Dhiyu Priawan
 
 <!--
 **alfitodhy/alfitodhy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
