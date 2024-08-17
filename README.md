@@ -38,5 +38,8 @@ If you are interested in getting to know me, please follow the account.
 </div>
 
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=your-github-alfitodhy
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-alfitodhy&theme=dark&background=000000)](https://git.io/streak-stats)
+https://github-readme-streak-stats.herokuapp.com/?user=alfitodhy
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alfitodhy&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfitodhy&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
