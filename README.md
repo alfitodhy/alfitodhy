@@ -41,4 +41,5 @@ If you are interested in getting to know me, please follow the account.
 [![Naereen's github stats](https://github-readme-stats.vercel.app/api?username=alfitodhy&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alfitodhy&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
+![](https://komarev.com/ghpvc/?username=alfitodhy&label=PROFILE+VIEWS)
 
