@@ -18,7 +18,7 @@ I'm open to freelance opportunities! If you're looking for a dedicated and creat
 
 If you are interested in getting to know me, please follow the account.
 
-## 💻 Tech Stack:
+# 💻 Tech Stack:
 PHP HTML5 TypeScript JavaScript Vercel Bootstrap Code-Igniter jQuery React Next JS Laravel Apache Nginx MySQL GIT Trello Postman
 
 
