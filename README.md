@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 ## Hi I'm Alfito Dhiyu Priawan. 👋
 
 I'm a web development enthusiast and graduate from the Informatics Engineering Study Program at Universitas Muhammadiyah Bengkulu. Welcome to my portfolio, where I showcase my projects, skills, and passion for coding.
@@ -19,7 +23,8 @@ I'm open to freelance opportunities! If you're looking for a dedicated and creat
 If you are interested in getting to know me, please follow the account.
 
 # 💻 Tech Stack:
-![Alt text]([https://example.com/path/to/image.png](https://camo.githubusercontent.com/7214756307a30b95ce076bed73fe2be1414791379b42b5ab183bad795f1fea85/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7068702d2532333737374242342e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d706870266c6f676f436f6c6f723d7768697465))
+
+
 <!--
 **alfitodhy/alfitodhy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
