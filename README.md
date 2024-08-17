@@ -19,9 +19,7 @@ I'm open to freelance opportunities! If you're looking for a dedicated and creat
 If you are interested in getting to know me, please follow the account.
 
 # 💻 Tech Stack:
-PHP HTML5 TypeScript JavaScript Vercel Bootstrap Code-Igniter jQuery React Next JS Laravel Apache Nginx MySQL GIT Trello Postman
-https://camo.githubusercontent.com/7214756307a30b95ce076bed73fe2be1414791379b42b5ab183bad795f1fea85/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7068702d2532333737374242342e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d706870266c6f676f436f6c6f723d7768697465
-
+![Alt text]([https://example.com/path/to/image.png](https://camo.githubusercontent.com/7214756307a30b95ce076bed73fe2be1414791379b42b5ab183bad795f1fea85/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7068702d2532333737374242342e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d706870266c6f676f436f6c6f723d7768697465))
 <!--
 **alfitodhy/alfitodhy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
