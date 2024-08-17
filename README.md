@@ -14,6 +14,14 @@ I'm open to freelance opportunities! If you're looking for a dedicated and creat
 - Email: alfitodhiyu5@gmail.com
 - LinkedIn: Alfito Dhiyu Priawan
 
+🛠️ With over 2 years of hands-on experience in fullstack development, I've honed my skills in creating intuitive user interfaces, designing efficient databases, and ensuring seamless functionality. I've contributed to crafting digital solutions that leave a lasting impact.
+
+If you are interested in getting to know me, please follow the account.
+
+## 💻 Tech Stack:
+
+
+
 <!--
 **alfitodhy/alfitodhy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
