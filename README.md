@@ -32,12 +32,12 @@ If you are interested in getting to know me, please follow the account.
 </div>
 
 ### :fire: Github Statistic :
-[![Naereen's github stats](https://github-readme-stats.vercel.app/api?username=alfitodhy&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alfitodhy&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alfitodhy&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfitodhy&layout=compact)
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=alfitodhy" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alfitodhy&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 ![](https://komarev.com/ghpvc/?username=alfitodhy&color=green)
 
